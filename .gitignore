@@ -1,0 +1,11 @@
+.vs
+*.sdf
+*.xml
+Debug
+Release
+*.txt
+ipch
+*.user
+*.suo
+*.aps
+*.opendb
