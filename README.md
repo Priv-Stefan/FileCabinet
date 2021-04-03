@@ -15,6 +15,6 @@ Click "Cabinet" menu and select "Add Card" to add a new card to the currect draw
 
 At first starts, the FileCabinet asks you to create a drawer. Do so, then you can start adding cards to the drawer.
 
-The program is written with Visual Studio 2015 C++. It is plain win32 programming, so not MFC or similar is necessary.
+The program is written with Visual Studio 2015 C++. It is plain win32 programming, so no MFC or similar is necessary.
 
 It is the first check in, so the code is not very clean.
