@@ -1,6 +1,6 @@
 # FileCabinet
 
-This is a simple program for saving every stuff on register cards (or how they are named). The idea raised from the old Windows XP / 3.11 Cardfile program.
+This is a simple program for saving every days stuff on register cards (or how they are named). The idea raised from the old Windows XP / 3.11 Cardfile program.
 
 It is based on the [tinyxml library](http://www.grinninglizard.com/tinyxml/).
 
